@@ -1,0 +1,15 @@
+{"model": "gemmaE2b", "scorer": "first", "task": "tw_sentiment", "rep": 0, "n": 200, "ms_per_decision": 29.664404755458236}
+{"model": "gemmaE2b", "scorer": "first", "task": "tw_sentiment", "rep": 1, "n": 200, "ms_per_decision": 29.38504904974252}
+{"model": "gemmaE2b", "scorer": "first", "task": "tw_sentiment", "rep": 2, "n": 200, "ms_per_decision": 29.47354573290795}
+{"model": "gemmaE2b", "scorer": "first", "task": "tw_topic", "rep": 0, "n": 200, "ms_per_decision": 29.547240501269698}
+{"model": "gemmaE2b", "scorer": "first", "task": "tw_topic", "rep": 1, "n": 200, "ms_per_decision": 29.431479051709175}
+{"model": "gemmaE2b", "scorer": "first", "task": "tw_topic", "rep": 2, "n": 200, "ms_per_decision": 29.425331014208496}
+{"model": "gemmaE2b", "scorer": "first", "task": "bitext", "rep": 0, "n": 200, "ms_per_decision": 29.53888417687267}
+{"model": "gemmaE2b", "scorer": "first", "task": "bitext", "rep": 1, "n": 200, "ms_per_decision": 29.38833060208708}
+{"model": "gemmaE2b", "scorer": "first", "task": "bitext", "rep": 2, "n": 200, "ms_per_decision": 29.45226694457233}
+{"model": "gemmaE2b", "scorer": "first", "task": "banking77", "rep": 0, "n": 200, "ms_per_decision": 31.96690478362143}
+{"model": "gemmaE2b", "scorer": "first", "task": "banking77", "rep": 1, "n": 200, "ms_per_decision": 32.10465191863477}
+{"model": "gemmaE2b", "scorer": "first", "task": "banking77", "rep": 2, "n": 200, "ms_per_decision": 32.2158755781129}
+{"model": "gemmaE2b", "scorer": "first", "task": "clinc150", "rep": 0, "n": 200, "ms_per_decision": 36.56745368614793}
+{"model": "gemmaE2b", "scorer": "first", "task": "clinc150", "rep": 1, "n": 200, "ms_per_decision": 36.43437513150275}
+{"model": "gemmaE2b", "scorer": "first", "task": "clinc150", "rep": 2, "n": 200, "ms_per_decision": 36.38365765102208}

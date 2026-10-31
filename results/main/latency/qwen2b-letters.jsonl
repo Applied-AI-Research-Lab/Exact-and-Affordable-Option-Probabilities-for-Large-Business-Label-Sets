@@ -1,0 +1,15 @@
+{"model": "qwen2b", "scorer": "letters", "task": "tw_sentiment", "rep": 0, "n": 200, "ms_per_decision": 34.56629629712552}
+{"model": "qwen2b", "scorer": "letters", "task": "tw_sentiment", "rep": 1, "n": 200, "ms_per_decision": 33.50169073790312}
+{"model": "qwen2b", "scorer": "letters", "task": "tw_sentiment", "rep": 2, "n": 200, "ms_per_decision": 33.499147105030715}
+{"model": "qwen2b", "scorer": "letters", "task": "tw_topic", "rep": 0, "n": 200, "ms_per_decision": 39.599008513614535}
+{"model": "qwen2b", "scorer": "letters", "task": "tw_topic", "rep": 1, "n": 200, "ms_per_decision": 33.91135252546519}
+{"model": "qwen2b", "scorer": "letters", "task": "tw_topic", "rep": 2, "n": 200, "ms_per_decision": 33.82671275641769}
+{"model": "qwen2b", "scorer": "letters", "task": "bitext", "rep": 0, "n": 0, "ms_per_decision": 0.11237617582082748}
+{"model": "qwen2b", "scorer": "letters", "task": "bitext", "rep": 1, "n": 0, "ms_per_decision": 0.05229935050010681}
+{"model": "qwen2b", "scorer": "letters", "task": "bitext", "rep": 2, "n": 0, "ms_per_decision": 0.049423426389694214}
+{"model": "qwen2b", "scorer": "letters", "task": "banking77", "rep": 0, "n": 0, "ms_per_decision": 0.09750016033649445}
+{"model": "qwen2b", "scorer": "letters", "task": "banking77", "rep": 1, "n": 0, "ms_per_decision": 0.05270820111036301}
+{"model": "qwen2b", "scorer": "letters", "task": "banking77", "rep": 2, "n": 0, "ms_per_decision": 0.05290098488330841}
+{"model": "qwen2b", "scorer": "letters", "task": "clinc150", "rep": 0, "n": 0, "ms_per_decision": 0.09999983012676239}
+{"model": "qwen2b", "scorer": "letters", "task": "clinc150", "rep": 1, "n": 0, "ms_per_decision": 0.05474220961332321}
+{"model": "qwen2b", "scorer": "letters", "task": "clinc150", "rep": 2, "n": 0, "ms_per_decision": 0.048966147005558014}

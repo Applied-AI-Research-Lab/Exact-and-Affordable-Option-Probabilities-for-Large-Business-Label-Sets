@@ -1,0 +1,15 @@
+{"model": "qwen2b", "scorer": "cached", "task": "tw_sentiment", "rep": 0, "n": 200, "ms_per_decision": 64.14074972271919}
+{"model": "qwen2b", "scorer": "cached", "task": "tw_sentiment", "rep": 1, "n": 200, "ms_per_decision": 56.761634084396064}
+{"model": "qwen2b", "scorer": "cached", "task": "tw_sentiment", "rep": 2, "n": 200, "ms_per_decision": 56.61658913362771}
+{"model": "qwen2b", "scorer": "cached", "task": "tw_topic", "rep": 0, "n": 200, "ms_per_decision": 81.23810209333897}
+{"model": "qwen2b", "scorer": "cached", "task": "tw_topic", "rep": 1, "n": 200, "ms_per_decision": 70.8414452848956}
+{"model": "qwen2b", "scorer": "cached", "task": "tw_topic", "rep": 2, "n": 200, "ms_per_decision": 71.13246701192111}
+{"model": "qwen2b", "scorer": "cached", "task": "bitext", "rep": 0, "n": 200, "ms_per_decision": 74.77435112465173}
+{"model": "qwen2b", "scorer": "cached", "task": "bitext", "rep": 1, "n": 200, "ms_per_decision": 71.44991270266473}
+{"model": "qwen2b", "scorer": "cached", "task": "bitext", "rep": 2, "n": 200, "ms_per_decision": 71.23157734517008}
+{"model": "qwen2b", "scorer": "cached", "task": "banking77", "rep": 0, "n": 200, "ms_per_decision": 125.3322633076459}
+{"model": "qwen2b", "scorer": "cached", "task": "banking77", "rep": 1, "n": 200, "ms_per_decision": 111.56047308817506}
+{"model": "qwen2b", "scorer": "cached", "task": "banking77", "rep": 2, "n": 200, "ms_per_decision": 111.62721491418779}
+{"model": "qwen2b", "scorer": "cached", "task": "clinc150", "rep": 0, "n": 200, "ms_per_decision": 166.08870645519346}
+{"model": "qwen2b", "scorer": "cached", "task": "clinc150", "rep": 1, "n": 200, "ms_per_decision": 155.1371676195413}
+{"model": "qwen2b", "scorer": "cached", "task": "clinc150", "rep": 2, "n": 200, "ms_per_decision": 154.8430904885754}

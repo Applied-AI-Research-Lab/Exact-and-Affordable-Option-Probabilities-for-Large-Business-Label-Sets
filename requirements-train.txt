@@ -1,0 +1,13 @@
+torch==2.13.0
+transformers==5.17.0
+accelerate==1.15.0
+peft
+safetensors
+huggingface_hub
+numpy
+pandas
+scipy
+scikit-learn
+kernels==0.16.1
+flash-linear-attention==0.5.2
+pillow

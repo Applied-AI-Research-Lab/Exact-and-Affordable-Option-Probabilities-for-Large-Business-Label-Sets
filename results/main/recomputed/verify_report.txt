@@ -1,0 +1,16 @@
+main: 152,000 raw rows, 0 errors, 0 duplicate ids, 152 model x scorer x task cells (3 s)
+[OK  ] main/exactness: 36 rows (unmatched 0), 5 cols, max |diff| 9.95e-17, bad cells 0
+[FAIL] main/quality: 152 rows (unmatched 0), 11 cols, max |diff| 4.00e-03, bad cells 14
+[OK  ] main/cost: 152 rows (unmatched 0), 3 cols, max |diff| 2.22e-16, bad cells 0
+[OK  ] main/first_bias: 48 rows (unmatched 0), 3 cols, max |diff| 1.11e-16, bad cells 0
+[OK  ] main/comparisons: 62 rows (unmatched 0), 9 cols, max |diff| 1.22e-15, bad cells 0
+[OK  ] main/latency: 40 rows (unmatched 0), 3 cols, max |diff| 1.42e-14, bad cells 0
+main done (7 s)
+fp32: 3,600 raw rows, 0 errors, 0 duplicate ids, 36 model x scorer x task cells (7 s)
+[OK  ] fp32/exactness: 18 rows (unmatched 0), 5 cols, max |diff| 1.11e-16, bad cells 0
+[OK  ] fp32/quality: 36 rows (unmatched 0), 11 cols, max |diff| 1.11e-16, bad cells 0
+[OK  ] fp32/cost: 36 rows (unmatched 0), 3 cols, max |diff| 8.33e-17, bad cells 0
+[OK  ] fp32/first_bias: 32 rows (unmatched 0), 3 cols, max |diff| 1.11e-16, bad cells 0
+[OK  ] fp32/comparisons: both empty
+[OK  ] fp32/latency: both empty
+fp32 done (7 s)
